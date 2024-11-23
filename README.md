@@ -8,7 +8,11 @@ I thrive on solving complex challenges, optimizing performance, and building sys
 📩 Feel free to connect or reach out to discuss collaboration opportunities!
 👉 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ra%C3%BAl-enrique-gonz%C3%A1lez-bondarchuk-32828b267/)
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## 🔧 **Technical Stack** 
 
@@ -37,4 +41,4 @@ Here are other tools and technologies I’ve worked with:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-
+![Feature](https://github.com/user-attachments/assets/c59e5f1f-35a7-4c64-ba70-db3d10ccf9a1)
