@@ -6,7 +6,9 @@ I thrive on solving complex challenges, optimizing performance, and building sys
 
 ### 🌐 Socials:
 📩 Feel free to connect or reach out to discuss collaboration opportunities!
-👉 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ra%C3%BAl-enrique-gonz%C3%A1lez-bondarchuk-32828b267/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ra%C3%BAl-enrique-gonz%C3%A1lez-bondarchuk-32828b267/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](raul.bondarchuk@gmail.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
