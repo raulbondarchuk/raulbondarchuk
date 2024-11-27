@@ -26,7 +26,7 @@ I thrive on solving complex challenges, optimizing performance, and building sys
 - **Testing**: go-testify 
 - **Logger**: Zap, Logrus
 
-### **🛢️ Relational databases**
+### **🛢️ Databases knowledge**
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -37,7 +37,7 @@ I thrive on solving complex challenges, optimizing performance, and building sys
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raulbondarchuk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### **🛠️ Additional Technologies**  
-Here are other tools and technologies I’ve worked with:  
+Here are other languages I've worked with:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
