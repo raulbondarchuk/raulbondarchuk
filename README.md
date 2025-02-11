@@ -22,11 +22,11 @@ I thrive on solving complex challenges, optimizing performance, and building sys
 ![Go](https://img.shields.io/badge/Go-1.21.x-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
 - **Frameworks**: Gin, Gorm, golang-migrate  
 - **Concurrency**: Extensive use of Goroutines and Channels  
-- **Protocols**: WebSocket, MQTT, Redis  
-- **Authentication**: JWT (with refresh tokens), OAuth  
-- **Monitoring**: Grafana, InfluxDB  
+- **Protocols**: HTTP, gRPC, WebSocket, MQTT, Redis  
+- **Authentication**: JWT (with refresh tokens), PASETO, OAuth  
+- **Monitoring**: TimescaleDB (PostgreSQL)  
 - **Testing**: go-testify 
-- **Logger**: Zap, Logrus
+- **Logger**: Logrus
 
 ### **🛢️ Databases knowledge**
 
