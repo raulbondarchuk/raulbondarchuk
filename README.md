@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👨‍💻 Backend Developer | Go Specialist 🚀  
+### 👨‍💻 Backend Developer | GoLang 🚀  
 Hi there! 👋 I'm a passionate Backend Developer with a deep expertise in Go. I specialize in architecting and maintaining scalable microservices, IoT systems, and high-performance web applications. My work is driven by a strong focus on concurrency, parallelism, and leveraging cutting-edge technologies to deliver efficient and reliable solutions.
 
 I thrive on solving complex challenges, optimizing performance, and building systems that seamlessly connect devices, data, and users in real time.
