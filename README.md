@@ -19,22 +19,20 @@ I thrive on solving complex challenges, optimizing performance, and building sys
 ## 🔧 **Technical Stack** 
 
 ### **🌟 Primary Stack:**  
-![Go](https://img.shields.io/badge/Go-1.21.x-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
-- **Frameworks**: Gin, Gorm, golang-migrate  
+![Go](https://img.shields.io/badge/Go-1.25.x-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+- **Frameworks**: go-kratos, Gin, Chi, Gorm, gRPC
 - **Concurrency**: Extensive use of Goroutines and Channels  
-- **Protocols**: HTTP, gRPC, WebSocket, MQTT, Redis  
-- **Authentication**: JWT (with refresh tokens), PASETO, OAuth  
-- **Monitoring**: TimescaleDB (PostgreSQL)  
-- **Testing**: go-testify 
-- **Logger**: Logrus
+- **Protocols**: HTTP, TCP, UDP, WebSocket, MQTT, Redis  
+- **Authentication**: JWT (with refresh tokens), PASETO, OAuth2  
+- **Monitoring**: TimescaleDB (PostgreSQL)
 
 ### **🛢️ Databases knowledge**
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raulbondarchuk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
